@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**Karinn28/Karinn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Karina Erlayas**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa IT** di [President University]().<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya tertarik pada bidang Cybersecurity dan sedang belajar untuk menguasai bidang tersebut.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/karina-erlayas-ba79a3269)ku ya.
+
+### Github Statistik
+<p align="left">
+<a href="https://github.com/Karinn28">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karinn28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karinn28&layout=compact&theme=algolia"/>
+</a>
+</p>
